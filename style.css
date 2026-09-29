@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+h3{
+  cursor: pointer;
+}
+h1{
+  cursor: pointer;
+}
+span{
+   cursor: pointer;
+}
